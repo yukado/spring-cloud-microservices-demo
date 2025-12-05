@@ -31,6 +31,8 @@
         <module>api-gateway</module>
         <module>employee-service</module>
         <module>fraud-service</module>
+        <module>product-service</module>
+        <module>product-service</module>
     </modules>
 
     <!-- Dependency Management -->
